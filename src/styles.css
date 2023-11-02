@@ -1,0 +1,11 @@
+.head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.head :last-child{
+    background-color: gold;
+}
+
+.head :first-child{
+    color: coral;
+}
