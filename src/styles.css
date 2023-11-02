@@ -9,3 +9,11 @@
 .head :first-child{
     color: coral;
 }
+
+.div2 :first-child{
+    background-color: darkgreen;
+}
+
+.div2 p{
+    color: blue;
+}
